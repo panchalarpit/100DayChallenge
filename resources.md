@@ -6,6 +6,9 @@
 1. [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4) freeCodeCamp Medium
 2. [Boot Up 2017 with the #100DaysOfCode Challenge](https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-updated-18ce604b237b) freeCodeCamp Medium 
 3. [Resistance, Habit Change and the #100DaysOfCode Movement](https://studywebdevelopment.com/100-days-of-code.html) StudyWebDevelopment Blog
+4. [Learning to Code: When It Gets Dark](https://medium.freecodecamp.com/learning-to-code-when-it-gets-dark-e485edfb58fd) freeCodeCamp Medium
+5. [How to Get a Developer Job in Less Than a Year](https://medium.freecodecamp.com/how-to-get-a-developer-job-in-less-than-a-year-c27bbfe71645) freeCodeCamp Medium
+
 
 ### Podcasts
 
@@ -13,6 +16,7 @@
 
 ## Helpful Articles
 1. [Gentle Explanation of 'this keyword in JavaScript](http://rainsoft.io/gentle-explanation-of-this-in-javascript/)
+
 
 ## Projects and Ideas
 1. [FreeCodeCamp](https://www.freecodecamp.com)
@@ -37,5 +41,3 @@
 ## Contents
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
-* [FAQ](FAQ.md)
-* [Resources](resources.md)
